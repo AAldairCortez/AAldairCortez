@@ -1,0 +1,10 @@
+python
+Java
+C#
+C
+JavaScript
+Perl
+PHP
+C++
+Go
+Kotlin
